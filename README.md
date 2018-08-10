@@ -1,5 +1,5 @@
 # 1st-cycle-02
-Lab projet for JeSung Park lecture Spring-Boot, JPA
+Lab projet for lecture Spring-Boot, JPA by JeSung Park
 
 ## 1-1. 로컬 개발 환경 셋팅
 * Spring-boot 프로젝트 생성.
